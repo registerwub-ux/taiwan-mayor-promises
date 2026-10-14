@@ -6,3 +6,5 @@
 - 現況多來自公開新聞與市府新聞稿,尚無第三方查核
 - 頁面中的判斷標籤是整理者的歸類,不是官方認定
 - 資料截至 2026-10-14
+
+頁面網址:https://registerwub-ux.github.io/taiwan-mayor-promises/
